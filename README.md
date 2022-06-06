@@ -1,0 +1,2 @@
+# solitaireCLI
+Solitaire console game 
